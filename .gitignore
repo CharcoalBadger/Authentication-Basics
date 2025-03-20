@@ -1,0 +1,41 @@
+# Node.js Dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+# Environment Variables (Passwords, API Keys, DB Credentials)
+.env
+*.env
+.env.local
+.env.development
+.env.production
+.env.test
+# Logs & Debug Files
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+# Coverage & Debugging
+.coveralls.yml
+*.coveralls.yml
+.DS_Store
+.vscode/
+.idea/
+
+# Node.js dependencies
+node_modules/
+package-lock.json
+
+# Environment Variables
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Database
+*.sqlite
+*.sqlite3
